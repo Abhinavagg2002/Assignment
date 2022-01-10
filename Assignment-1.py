@@ -23,7 +23,7 @@ print("The value of taxable income is ",Taxable_Income)
 List = []
 SID = int(input("Enter your SID ",))
 Name = str(input("Enter your name ",))
-Gender = str(input("Enter your gender {Use 'M' for 'Male' and 'F' for 'Female'}",))
+Gender = str(input("Enter your gender {Use 'M' for 'Male' and 'F' for 'Female'} ",))
 Course_Name = str(input("Enter your course name ",))
 CGPA = float(input("Enter your CGPA ",))
 List.append(SID)
