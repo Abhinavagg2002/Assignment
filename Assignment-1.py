@@ -4,7 +4,7 @@ num_2 = int(input("Enter the second number ",))
 num_3 = int(input("Enter the third number ",))
 num_4 = num_1 + num_2 + num_3
 average = num_4 / 3
-print("The average pf these numbers is ",average)
+print("The average of these numbers is ",average)
 
 
 # Question-2
@@ -23,7 +23,7 @@ print("The value of taxable income is ",Taxable_Income)
 List = []
 SID = int(input("Enter your SID ",))
 Name = str(input("Enter your name ",))
-Gender = str(input("Enter your gender {Use 'M' for 'Male' and 'F' for 'Female'} ",))
+Gender = str(input("Enter your gender {Use 'M' for 'Male' and 'F' for 'Female' and 'U' for 'Unkown'} ",))
 Course_Name = str(input("Enter your course name ",))
 CGPA = float(input("Enter your CGPA ",))
 List.append(SID)
