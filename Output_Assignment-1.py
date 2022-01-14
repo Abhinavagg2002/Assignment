@@ -5,7 +5,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Enter the first number 10
 Enter the second number 20
 Enter the third number 30
-The average pf these numbers is  20.0
+The average of these numbers is  20.0
 Enter your income 100000
 Enter number of dependent 2
 The value of deducted amount is  6000
@@ -13,7 +13,7 @@ The value of tax is 16800.0
 The value of taxable income is  84000
 Enter your SID 21103030
 Enter your name Abhinav Aggarwal
-Enter your gender {Use 'M' for 'Male' and 'F' for 'Female' M
+Enter your gender {Use 'M' for 'Male' and 'F' for 'Female' and 'U' for 'Unkown'} M
 Enter your course name CSE
 Enter your CGPA 8.6
 [21103030, 'Abhinav Aggarwal', 'M', 'CSE', 8.6]
