@@ -54,6 +54,6 @@ Student's SID is 21103030
 Question-5
 70000
 Question-6
-Enter George's word: Cricket
-Enter Barbie's word: Football
-Friendship is Fake
+Enter George's word: night
+Enter Barbie's word: thing
+Friendship is True
